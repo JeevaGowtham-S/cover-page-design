@@ -1,4 +1,15 @@
 # cover-page-design
+## AIM:
+To develop a website to display the cover page design of a book
+
+## Design Steps:
+
+### Step 1:
+ write a python code for program
+
+### Step 2:
+run the server 
+# cover-page-design
 
 ## HTML CSS code:
 ```
@@ -116,3 +127,7 @@
 
 # OUTPUT:
 ![output](./images/cov.png)
+
+# Result:
+   Thus a book cover is developed in website.
+
